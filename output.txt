@@ -1,0 +1,17 @@
+Script started on Fri 15 Dec 2017 01:21:32 PM EST
+xwang345@matrix:~/OOP345_Milestone/Milestone2> ws CustomerOrder.dat ItemList.dat ,
+Command Line Arguments
+----------------------
+Customer Order File Specified = CustomerOrder.dat
+Item File Specified           = ItemList.dat
+File Record Field Delimiter   = ,
+
+
+*** Load and Accept the Customer Orders ***
+terminate called after throwing an instance of 'std::out_of_range'
+  what():  vector::_M_range_check: __n (which is 1) >= this->size() (which is 1)
+Aborted
+xwang345@matrix:~/OOP345_Milestone/Milestone2> exit
+exit
+
+Script done on Fri 15 Dec 2017 01:22:06 PM EST
